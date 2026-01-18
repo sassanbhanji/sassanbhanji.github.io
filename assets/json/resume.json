@@ -46,7 +46,11 @@
       "startDate": "Oct 2023",
       "endDate": "July 2027",
       "score": "First Class Honours",
-      "courses": ["Grade: 1st class", "President of the St John’s College Engineering Society (Parsons Society)", "Relevant Modules: Deep Learning, Reinforcement Learning, Computer Vision, Mathematical Methods, Control, SignalProcessing, Information Theory, Inference, Bioengineering, Neuroscience"]
+      "courses": [
+        "Grade: 1st class",
+        "President of the St John’s College Engineering Society (Parsons Society)",
+        "Relevant Modules: Deep Learning, Reinforcement Learning, Computer Vision, Mathematical Methods, Control, SignalProcessing, Information Theory, Inference, Bioengineering, Neuroscience"
+      ]
     }
   ],
   "awards": [
