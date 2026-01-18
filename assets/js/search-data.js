@@ -61,9 +61,9 @@ ninja.data = [{
           description: "This application asks you questions via WhatsApp bot to let you build a CV in any language without needing to read/write.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-does-chessgpt-understand-chess",
+          title: 'Does ChessGPT understand Chess?',
+          description: "We used mechanistic interpretability to evaluate ChessGPT&#39;s understanding of the game",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "teachings-data-science-fundamentals",
