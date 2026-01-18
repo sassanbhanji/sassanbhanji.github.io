@@ -18,4 +18,3 @@ This work is a re-implementation of Anthropic's Constitutional AI pipeline that:
 - Benchmarks four checkpoints on harmfulness/helpfulness
 
 We were bottlenecked by compute at the time but would like to work on this further in the future!
-
