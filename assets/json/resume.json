@@ -6,9 +6,7 @@
       "startDate": "Oct 2025",
       "endDate": "Present",
       "summary": "Researching Chain of Thought Obfuscation Generalisation in Large Language Models.",
-      "highlights": [
-        "Developed experimental pipelines for reinforcement learning on Qwen-4B, including dataset construction and augmentation."
-      ]
+      "highlights": ["Developed experimental pipelines for reinforcement learning on Qwen-4B, including dataset construction and augmentation."]
     },
     {
       "name": "National University of Singapore",
@@ -20,7 +18,6 @@
         "Implemented and benchmarked Transformer and UNet architectures for turbulence prediction.",
         "Analysed the effect of different filtering methods on a priori and a posteriori model error under different boundary conditions."
       ]
-
     },
     {
       "name": "Alpine Formula 1 team",

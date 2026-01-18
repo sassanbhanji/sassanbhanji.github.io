@@ -2,20 +2,30 @@
 layout: page
 permalink: /interests/
 title: Interests
-description: Hobbies and interests outside of work.
+description: Here are some things I do for fun
 nav: true
 nav_order: 4
 ---
 
-## Hobbies & Interests
+### Sports & Fitness
 
-Add your hobbies and interests here. You can include:
+- Running
+- Climbing
+- etc.
 
-- Sports and physical activities
-- Creative pursuits (music, art, photography, etc.)
-- Reading and learning
-- Travel and exploration
-- Community involvement
-- Any other personal interests
+### Reading & Learning
 
-Feel free to add images, links, or detailed descriptions of your interests!
+- AI safety research papers
+- Science fiction
+- Philosophy
+
+### Creative Pursuits
+
+- Photography
+- Music
+- Writing
+
+### Travel
+
+- Places you've visited
+- Places you want to go
