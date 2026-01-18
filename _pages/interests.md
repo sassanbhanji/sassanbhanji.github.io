@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /interests/
-title: interests
+title: Interests
 description: Hobbies and interests outside of work.
 nav: true
 nav_order: 4
