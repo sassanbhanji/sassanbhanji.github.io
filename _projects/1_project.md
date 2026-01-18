@@ -19,4 +19,3 @@ This work is a re-implementation of Anthropic's Constitutional AI pipeline that:
 
 We were bottlenecked by compute at the time but would like to work on this further in the future!
 
-{% endraw %}
