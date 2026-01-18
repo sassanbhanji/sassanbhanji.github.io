@@ -56,9 +56,9 @@ ninja.data = [{
           description: "We built an Anrgy Birds game that can be controlled by WhatsApp voice messages",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-whatsapp-based-cv-builder",
+          title: 'WhatsApp-based CV builder',
+          description: "This application asks you questions via WhatsApp bot to let you build a CV in any language without needing to read/write.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
