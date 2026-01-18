@@ -1,8 +1,7 @@
 {
   "work": [
     {
-      "name": "Geodesic Research",
-      "position": "AI Safety Research Intern",
+      "position": "Geodesic Research - AI Safety Research Intern",
       "startDate": "Oct 2025",
       "endDate": "Present",
       "highlights": [
@@ -11,8 +10,7 @@
       ]
     },
     {
-      "name": "National University of Singapore",
-      "position": "Machine Learning Research Intern",
+      "position": "National University of Singapore - Machine Learning Research Intern",
       "startDate": "July 2025",
       "endDate": "Sep 2025",
       "highlights": [
@@ -22,8 +20,7 @@
       ]
     },
     {
-      "name": "Alpine Formula 1 team",
-      "position": "Engineering Intern",
+      "position": "Alpine Formula 1 team - Engineering Intern",
       "startDate": "July 2024",
       "endDate": "Oct 2024",
       "highlights": [
@@ -39,7 +36,13 @@
       "studyType": "Computer Engineering & Bioengineering MEng",
       "startDate": "Oct 2023",
       "endDate": "July 2027",
-      "score": "First Class Honours"
+      "score": "First Class Honours",
+      "courses": [
+        "Relevant coursework or achievements",
+        "Research projects",
+        "Academic honors or distinctions",
+        "Key technical skills developed"
+      ]
     }
   ],
   "awards": [
@@ -57,6 +60,11 @@
       "title": "Music Scholarship",
       "date": "2023",
       "awarder": "University of Cambridge"
+    },
+    {
+      "title": "Academic Scholarship and Music Scholarship",
+      "date": "2018",
+      "awarder": "King's College School, Wimbledon"
     }
   ],
   "languages": [

@@ -9,9 +9,9 @@ nav_order: 4
 
 #### Music
 
-- I used to study Viola and Violin at the Royal College of Music Junior Department where I achieved diplomas in both
-- I was also co-principal violist of the National Youth Orchestra
-- At Cambridge University, I'm a recipient of an Instrumental Award and frequently perform with my string quartet, the Alea Quartet. In my 2nd year I was principal violist of the Cambridge University Orchestra (CUO)
+- I used to study Viola and Violin at the Royal College of Music Junior Department where I achieved diplomas in both.
+- I was also co-principal violist of the National Youth Orchestra.
+- At Cambridge University, I'm an Instrumental Award holder and frequently perform with my string quartet, the Alea Quartet. In my 2nd year I was principal violist of the Cambridge University Orchestra (CUO).
 
 #### Languages
 
