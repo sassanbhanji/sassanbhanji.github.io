@@ -10,6 +10,15 @@
       ]
     },
     {
+      "position": "Cambridge AI Safety Hub - Committee",
+      "startDate": "Oct 2025",
+      "endDate": "Present",
+      "highlights": [
+        "Organised an AI Safety research hackathon for over 70 Cambridge students, sponsored by Anthropic. Guest judges included researchers from Meridian and Deepmind.",
+        "Coordinated weekly socials and speaker events."
+      ]
+    },
+    {
       "position": "National University of Singapore - Machine Learning Research Intern",
       "startDate": "July 2025",
       "endDate": "Sep 2025",
@@ -37,12 +46,17 @@
       "startDate": "Oct 2023",
       "endDate": "July 2027",
       "score": "First Class Honours",
-      "courses": ["Relevant coursework or achievements", "Research projects", "Academic honors or distinctions", "Key technical skills developed"]
+      "courses": ["Grade: 1st class", "President of the St John’s College Engineering Society (Parsons Society)", "Relevant Modules: Deep Learning, Reinforcement Learning, Computer Vision, Mathematical Methods, Control, SignalProcessing, Information Theory, Inference, Bioengineering, Neuroscience"]
     }
   ],
   "awards": [
     {
       "title": "Townsend Scholarship",
+      "date": "2025",
+      "awarder": "St John's College, University of Cambridge"
+    },
+    {
+      "title": "Scholarship to do a research internship at NUS",
       "date": "2025",
       "awarder": "St John's College, University of Cambridge"
     },

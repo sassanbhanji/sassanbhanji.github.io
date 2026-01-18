@@ -25,3 +25,7 @@ latest_posts:
 ---
 
 I’m a third-year Computer Engineering and Bioengineering student at the University of Cambridge, with a strong interest in AI safety.
+
+I'm on the student committee of the Cambridge AI Safety Hub, and I've been working with Geodesic Research alongside my degree. I recently completed the Alignment Research Engineer Accelerator (ARENA) run by OAISI in Oxford.
+
+In the past I've worked at Alpine Formula 1 team and done ML research at the National University of Singapore.
