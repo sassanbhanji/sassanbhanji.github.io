@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: sassan_pic.jpg
+  image: sassan_pic_compressed.jpeg
   image_circular: true # crops the image to make it circular
   more_info:
 
