@@ -5,16 +5,18 @@
       "position": "AI Safety Research Intern",
       "startDate": "Oct 2025",
       "endDate": "Present",
-      "summary": "Researching Chain of Thought Obfuscation Generalisation in Large Language Models.",
-      "highlights": ["Developed experimental pipelines for reinforcement learning on Qwen-4B, including dataset construction and augmentation."]
+      "highlights": [
+        "Researching Chain of Thought Obfuscation Generalisation in Large Language Models.",
+        "Developed experimental pipelines for reinforcement learning on Qwen-4B, including dataset construction and augmentation."
+      ]
     },
     {
       "name": "National University of Singapore",
       "position": "Machine Learning Research Intern",
       "startDate": "July 2025",
       "endDate": "Sep 2025",
-      "summary": "Investigated ML-augmented subgrid-scale modelling to accelerate CFD simulations, supervised by Dr Qianxiao Li.",
       "highlights": [
+        "Investigated ML-augmented subgrid-scale modelling to accelerate CFD simulations, supervised by Dr Qianxiao Li.",
         "Implemented and benchmarked Transformer and UNet architectures for turbulence prediction.",
         "Analysed the effect of different filtering methods on a priori and a posteriori model error under different boundary conditions."
       ]
@@ -24,7 +26,6 @@
       "position": "Engineering Intern",
       "startDate": "July 2024",
       "endDate": "Oct 2024",
-      "summary": "Worked in the Structures and Materials team.",
       "highlights": [
         "Developed internal tools to optimise the stress analysis pipeline.",
         "Conducted FEA using Hypermesh on components including the rocker, drybrake, and nose cone; supported FIA certification and crash test analysis.",

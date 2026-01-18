@@ -7,25 +7,12 @@ nav: true
 nav_order: 4
 ---
 
-### Sports & Fitness
+#### Music
 
-- Running
-- Climbing
-- etc.
+- I used to study Viola and Violin at the Royal College of Music Junior Department where I achieved diplomas in both
+- I was also co-principal violist of the National Youth Orchestra
+- At Cambridge University, I'm a recipient of an Instrumental Award and frequently perform with my string quartet, the Alea Quartet. In my 2nd year I was principal violist of the Cambridge University Orchestra (CUO)
 
-### Reading & Learning
+#### Languages
 
-- AI safety research papers
-- Science fiction
-- Philosophy
-
-### Creative Pursuits
-
-- Photography
-- Music
-- Writing
-
-### Travel
-
-- Places you've visited
-- Places you want to go
+- I love learning foreign languages - so far I've learnt French, Spanish and Italian and hope to learn more in the future!
