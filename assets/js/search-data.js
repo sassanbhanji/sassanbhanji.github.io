@@ -51,9 +51,9 @@ ninja.data = [{
           description: "Reimplemented Anthropic’s Constitutional AI pipeline on open weights (Mistral-7B) using LoRA and DPO",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-camhacks-25-project",
+          title: 'CamHacks 25 Project',
+          description: "We built an Anrgy Birds game that can be controlled by WhatsApp voice messages",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
