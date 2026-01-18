@@ -37,12 +37,7 @@
       "startDate": "Oct 2023",
       "endDate": "July 2027",
       "score": "First Class Honours",
-      "courses": [
-        "Relevant coursework or achievements",
-        "Research projects",
-        "Academic honors or distinctions",
-        "Key technical skills developed"
-      ]
+      "courses": ["Relevant coursework or achievements", "Research projects", "Academic honors or distinctions", "Key technical skills developed"]
     }
   ],
   "awards": [
