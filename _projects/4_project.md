@@ -60,4 +60,3 @@ Next steps
 The natural next step is mechanistic interpretability. Our results suggest there is a circuit somewhere in the model that detects '+' in the input and uses this to affect output logits. Finding this circuit would let us verify exactly how the model was "cheating" and confirm that the fine-tuned model uses a genuinely different mechanism. Other directions include evaluating the no-'+' model on checkmate prediction, investigating pawn captures specifically, and checking whether similar notation dependencies exist in other game-playing language models.
 
 The broader takeaway is that superficial features in training data can mask whether a model truly understands the underlying domain. The '+' symbol is a clean example: redundant information that the model latched onto instead of learning the actual concept. This is probably happening in other domains too, and it is worth being careful about when evaluating what models have actually learned.
-
